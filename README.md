@@ -1,2 +1,2 @@
-# media-promotion
+# media-resource
 DEEVO media resource for promotion
